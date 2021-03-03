@@ -1,0 +1,9 @@
+.link{
+transition: linear 0.3s;
+}
+
+.link:hover::before{
+opacity: 0.8s;
+position: absolute;
+z-index: -1;
+}
