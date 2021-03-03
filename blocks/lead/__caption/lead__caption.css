@@ -8,4 +8,6 @@ margin: 0 auto;
 margin-top: 8px;
 font-style: normal;
 font-weight: normal;
+text-transform: uppercase;
+letter-spacing: 0.15em;
 }

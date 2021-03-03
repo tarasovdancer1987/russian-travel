@@ -6,32 +6,22 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 box-sizing: border-box;
-position: relative;
 z-index: 1;
 width: calc(100% - 2 * 48px);
 margin: 0 auto;
 min-height: 740px;
+transition: opacity 0.3s, linear 0.3s;
+
 }
 
 .cover__overlay-container:hover{
 background-color: #2A2C2F;
-opacity: 0.3;
+opacity: 0.8;
 }
 
 @media screen and (max-width: 1024px){
 .cover__overlay-container{
-    width: 100%;
+width: 100%;
 }
 }
     
-@media screen and (max-width: 768px){
-.cover__overlay-container{
-    width: 100%;
-}
-}
-
-@media screen and (max-width: 320px){
-.cover__overlay-container{
-    width: 100%;
-}
-}

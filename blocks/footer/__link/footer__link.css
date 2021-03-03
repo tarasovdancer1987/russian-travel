@@ -9,7 +9,6 @@ line-height: 18px;
 opacity: 1;
 }
 .footer__link:hover{
-transition: 0.7s;
 opacity: 0.5;
 }
 
