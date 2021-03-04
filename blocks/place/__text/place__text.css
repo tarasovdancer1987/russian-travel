@@ -5,6 +5,10 @@ margin: 0;
 
 @media screen and (max-width: 767px){
 .place__text{
-padding: 0 16px 0 16px;
+padding: 0 16px 25px 16px;
+}
+.place__text:last-child{
+padding-bottom: 0;
 }
 }
+

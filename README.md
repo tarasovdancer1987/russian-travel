@@ -17,4 +17,4 @@
 
 **Ссылка на GitHub**
 
-* [Ссылка на GitHub](https://tarasovdancer1987.github.io/russian-travel/.index.html)
+* [Ссылка на GitHub](https://tarasovdancer1987.github.io/russian-travel/index.html)
